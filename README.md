@@ -1,3 +1,6 @@
+update: We used this to find context paragraph containing answer. Basic indea is question embedding should be closer to the paragraph containing the answer. Primary code change is in encoder/Infersent.ipynb.
+
+--------------------
 # InferSent
 
 *InferSent* is a *sentence embeddings* method that provides semantic representations for English sentences. It is trained on natural language inference data and generalizes well to many different tasks.
